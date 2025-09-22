@@ -1,6 +1,6 @@
 #Домашнее задание по Composer#
 
-![](img\Снимок.PNG "Скан composer.json")
+![Image](img\Снимок.PNG "Скан composer.json")
 
 ###Ответы на вопросы:###
 
