@@ -1,8 +1,8 @@
-#Домашнее задание по Composer#
+# Домашнее задание по Composer
 
-![Image](img\Снимок.PNG "Скан composer.json")
+![Изображение](img/Снимок.PNG "Скан composer.json")
 
-###Ответы на вопросы:###
+### Ответы на вопросы:
 
 *1. В чем разница между файлами composer.json и composer.lock ?*
 
